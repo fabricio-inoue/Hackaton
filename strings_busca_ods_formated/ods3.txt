@@ -1,0 +1,82 @@
+
+    ({humano} E {saúde|doença|remédio|mortalidade} ) 
+    | {síndrome da criança espancada} 
+    | {doença cardiovascular} 
+    | {doenças cardiovasculares} 
+    | {chagas} 
+    | {abuso infantil} 
+    | {negligência infantil} 
+    | {índice de bem-estar infantil} 
+    | {índice de bem-estar juvenil} 
+    | {doença transmitida pela água} 
+    | {doenças transmitidas pela água} 
+    | {doença tropical} 
+    | {doenças tropicais} 
+    | {doença respiratória crônica} 
+    | {doenças respiratórias crônicas} 
+    | {doença infecciosa} 
+    | {doenças infecciosas} 
+    | {doenças sexualmente transmissíveis} 
+    | {doença sexualmente transmissível} 
+    | {doença transmissível} 
+    | {doenças transmissíveis} 
+    | {sida} 
+    | {aids} 
+    | {hiv} 
+    | {vírus da imunodeficiência humana} 
+    | tuberculose 
+    | {malária} 
+    | {hepatite} 
+    | {poliomielite}* 
+    | {vacina}* 
+    | {câncer}* 
+    | {diabetes}* 
+    | {mortalidade materna} 
+    | {mortalidade infantil} 
+    | {complicações no parto} 
+    | {mortalidade neonatal} 
+    | {mortalidade prematura} 
+    | {ano de vida ajustado pela qualidade} 
+    | {saúde materna} 
+    | {morte evitável} 
+    | {mortes evitáveis} 
+    | {controle do tabaco} 
+    | {abuso de substâncias} 
+    | {abuso de drogas} 
+    | {uso de tabaco} 
+    | {uso de álcool} 
+    | {dependência de substâncias} | {dependência química} 
+    | {dependência de drogas} 
+    | {tabagismo} 
+    | {alcoolismo} 
+    | {suicídio}
+    | {depressão pós-parto} 
+    | {zika vírus} 
+    | {dengue} 
+    | esquistossomose 
+    | {doença do sono} 
+    | {ebola} 
+    | {saúde mental} 
+    | {transtorno mental} 
+    | {doença mental} 
+    | {doenças mentais} 
+    | {sarampo} 
+    | {doença negligenciada} 
+    | {doenças negligenciadas} 
+    | {diarreia} 
+    | {cólera} 
+    | disenteria 
+    | {febre tifoide} 
+    | {acidente de trânsito} 
+    | {estilo de vida saudável} 
+    | {expectativa de vida} 
+    | {política de saúde} 
+    | ( {sistema de saúde} E {acesso|acessível} ) 
+    | {risco de saúde} 
+    | {riscos de saúde} 
+    | {saúde inclusiva} 
+    | {obesidade} 
+    | {determinantes sociais de saúde} 
+    | {dano psicológico} 
+    | {bem-estar psicológico} 
+    | {saúde pública}

@@ -1,0 +1,30 @@
+
+({igualdade} E {econômica|financeira|socioeconômica})
+| ({desigualdade} E {econômica| financeira|socioeconômica})
+| {política de reforma econômica}
+| {políticas de reforma econômica}
+| {inclusão política}
+| {política de proteção social}
+| {políticas de proteção social}
+| {investimento estrangeiro direto}
+| {lacuna de desenvolvimento}
+| {lacunas de desenvolvimento}
+| {remessa de migrantes}
+| {migração responsável}
+| {política} de E {migração |migratória}
+| {políticas} de E {migração |migratórias}
+| {divisão norte-sul}
+| ({desenvolvimento} E {tarifas|tarifa|tarifa zero|acesso isento de impostos})
+| {exclusão social}
+| {marginalização econômica}
+| {desigualdade de renda}
+| {lei discriminatória}
+| {políticas discriminatórias}
+| {política discriminatória}
+| {empoderamento econômico}
+| {transformação econômica}
+| ({mercado global} E {empoderamento})
+{imigração}
+{emigração}
+| [ E NÃO {química | doença | biodiversidade}]
+| [E NÃO {química | doença | biodiversidade}]

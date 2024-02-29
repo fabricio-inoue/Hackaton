@@ -1,0 +1,14 @@
+(        {marinho|oceano|oceanos|mar|mares|costa|mangue}        E        {ciclo da água|ciclos da água|ciclo biogeoquímico|ciclos biogeoquímicos|modelo de circulação oceânica|modelos de circulação oceânica|modelagem de circulação oceânica|iceocean|oceano gelado|eutrófica|marinha|branqueamento de corais|manejo|gestão costeiro|habitat costeiro|habitats costeiros|lixo marinho|acidificação dos oceanos|acidificação|água do mar|pesca|pesca excessiva|rendimento sustentável|área marinha protegida|áreas marinhas protegidas|conservação marinha|ecoturismo|conservação baseada na comunidade|deslizamento de terra marinha|poluição marinha|escoamento de nutrientes|ecoturismo costeiro|pesca destrutiva|pesca local|pescadores artesanais|direitos de pesca|riqueza de espécies|conhecimento ecológico tradicional|pequenas ilhas em desenvolvimento|cota marinha | economia marinha|política marinha})
+
+
+({acidificação}E {água do mar})
+
+[E NÃO 
+    {paleoclima} 
+    | {paleoceanografia} 
+    | {radiocarbono} 
+    | {genética} 
+    | {medicina} 
+    | {droga} 
+    | {engenharia} 
+    | {aerossol}]

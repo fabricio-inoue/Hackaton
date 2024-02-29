@@ -1,0 +1,26 @@
+
+    ( {seguro} E {acesso à água|água potável|limpa} ) 
+    | ( {limpa} E {água potável|fonte de água} ) 
+    | ( {água} E {saneamento e higiene|saneamento e higiene} )
+    | ({qualidade|recurso} E {disponibilidade de água|eficiência do uso da água|abastecimento de água|água potável|banheiro higiênico|banheiros higiênicos|membrana anti-incrustante|membranas anti-incrustantes|gestão da água|toxicologia aquática|toxicologia da água|ecotoxicologia aquática|ecotoxicologia da água})
+
+    | ( {água doce|fresca} E {qualidade da água})
+    ({qualidade da água} E {poluente|poluição|contamina})
+    | ( {água doce|fresca} E {conservação da água|segurança hídrica|escassez de água|conservação da água|pegada hídrica|infraestrutura hídrica|poluição da água|purificação da água|uso da água|usos da água|saneamento|esgoto|})
+    | ( {água residual} E {tratamento}) 
+    | ( {água} E {ecossistema}) 
+    ({ecossistema} E {proteção de|disruptor endócrino|disruptores endócrinos}) 
+    | ( {água} E {gestão da água})
+    ({gestão da água} E {remediação da poluição|remoção de poluentes} )
+    ( {água subterrânea} E {água doce})
+    ( {poluição da água|poluente da água} E {água residual|tratamento} ) 
+    ({água residual} E {tratamento}) 
+    | {disponibilidade de água doce} 
+    | {escassez de água} 
+    | {fecalismo a céu aberto} 
+    | {água azul} 
+    | {água verde} 
+    | {água cinza} 
+    | {água negra} 
+E NÃO [{estudo da carga global de doenças}]
+E NÃO    [{marinhos}] 
