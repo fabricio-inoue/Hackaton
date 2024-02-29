@@ -1,0 +1,76 @@
+
+        {desigualdade de gênero} 
+        | {igualdade de gênero}
+        | {igualdade no emprego}
+        | {diferença salarial entre gêneros}
+        | {participação feminina na força de trabalho}
+        | {participação da mulher na força de trabalho}
+        {participação das mulheres na força de trabalho}
+        | {emprego feminino}
+        | {desemprego feminino}
+        | ({acesso} E {serviços de planejamento familiar})
+        | {casamento forçado}
+        | {casamento infantil}
+        | {casamentos forçados}
+        | {casamentos infantis}
+        | {segregação ocupacional}
+        | {empoderamento de mulheres}
+        | {empoderamento de meninas}
+        | {empoderamento feminino}
+        | {mutilação genital feminina}
+        | {corte genital feminino}
+        | {violência doméstica}
+        | {mulher E violência}
+        | {menina* E violência}
+        | {violência sexual}
+        | ({trabalho não remunerado} E {desigualdade de gênero})
+        | ({trabalho de cuidado não remunerado} E {desigualdade de gênero})
+        | {participação política das mulheres}
+        | {participação política feminina}
+        | {gestoras femininas}
+        | {mulheres na liderança}
+        | {liderança feminina}
+        | {alocação intrafamiliar}
+        | ({acesso} E {saúde reprodutiva})
+        | {assassinato de honra}
+        | {assassinatos de honra}
+        | {antimulheres}
+        | {anti-mulheres}
+        | {feminismo}
+        | {misoginia}
+        | {infanticídio feminino}
+        | {infanticídios femininos}
+        | {tráfico humano}
+        | {prostituição forçada}
+        | ({igualdade} E {direitos sexuais|direitos reprodutivos|direitos do divórcio})
+        | {direitos das mulheres}
+        | {injustiça de gênero}
+        | {injustiças de gênero}
+        | {discriminação de gênero}
+        | {disparidades de gênero}
+        | {diferença de gênero}
+        | {exploração feminina}
+        | {equidade doméstica}
+        | {participação política feminina}
+        | {sub-representação das mulheres}
+        | {empreendedorismo feminino}
+        | {propriedade feminina}
+        | {desenvolvimento econômico das mulheres}
+        | {poder das mulheres}
+        | {orçamento sensível ao gênero}
+        | {cota de gênero}
+        | ({ajuda externa} E {empoderamento das mulheres})
+        | {segregação de gênero}
+        | {violência de gênero}
+        | {participação de gênero}
+        | {mulheres na política}
+        {mulher na política}
+        | {liderança feminina}
+        | {comportamento contraceptivo}
+        | {autonomia das mulheres}
+        | {feminismo agrário}
+        | {microcrédito}
+        | {subsistência das mulheres}
+        | {propriedade das mulheres}
+        | {pequena proprietária}
+        | {transversalização de gênero}

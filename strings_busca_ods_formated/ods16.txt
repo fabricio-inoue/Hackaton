@@ -1,0 +1,84 @@
+        {inocência presumida} 
+        | {falsa confissão} 
+        | {conflito armado} 
+        | {conflitos armados} 
+        | {conflito civil} 
+        | {conflitos civis} 
+        | ( {guerra} E  {conflito|guerra|democracia|Convenção de Genebra|tratado|paz} ) 
+        | {manutenção da paz} 
+        | ( {corrupção} E {instituição|funcionário público|governo|suborno|conflito} ) 
+        | {crime} 
+        | {crimes} 
+        | {criminoso} 
+        | {déficit democrático} 
+        | ( {democratização} E {institucional|conflito|tomada de decisão|sociedade|política|ajuda financeira} )
+        | {conflito étnico} 
+        | {conflitos étnicos} 
+        | {exoneração} 
+        | {genocídio} 
+        | {homicídio} 
+        | {assassinato} 
+        | {tráfico humano} 
+        | {sistema de justiça criminal} 
+        | {sistema de justiça} 
+        | {justiça arbitrária} 
+        | {refugiado} 
+        | {terrorista} 
+        | {violência} 
+        | {tortura} 
+        | {estado de direito efetivo} 
+        | {fluxo de armas} 
+        | {instituição transparente} 
+        | {instituições transparentes} 
+        | {boa governança} 
+        | {identidade legal para todos} 
+        | {liberdade de informação} 
+        | {instituição de direitos humanos} 
+        | {ativistas de direitos humanos} 
+        | {liberdade fundamental} 
+        | {liberdades fundamentais} 
+        | {conflito violento} 
+        | {conflitos violentos} 
+        | {sociedade pacífica} 
+        | {instituição efetiva} 
+        | {instituições eficazes} 
+        | {instituição responsável} 
+        | {instituições responsáveis} 
+        | {instituição inclusiva} 
+        | {instituições inclusivas} 
+        | {abuso infantil} 
+        | {detenção arbitrária} 
+        | {detenção sem sentença} 
+        | {sistema judicial} 
+        | {tribunal criminal} 
+        | {sociedade inclusiva} 
+        | {sociedades inclusivas} 
+        | {instituição responsiva} 
+        | {instituições responsivas} 
+        | {sociedade justa} 
+        | {sociedades justas} 
+        | {recurso} 
+        {remédio legal}
+        | {recursos}
+        {remédios legais} 
+        | {independência do judiciário} 
+        | {judiciário independente} 
+        | {separação de poderes} 
+        | {extremismo} 
+        | {crime de guerra} 
+        | {sociedade pacífica} 
+        | {crime organizado} 
+        | {transferência ilícita} 
+        | {dinheiro ilícito} 
+        | {tráfico de armas} 
+        | {cibercrime}
+        {crime}
+        {cibernético}
+        | {insurgência} 
+        | {instituição democrática} 
+        | {instabilidade política} 
+        | ( {tomada de decisão política} E {responsivo|inclusivo|participativo|representativo} ) 
+        | {Convenção de Aarhus} 
+        | {liberdade de imprensa} 
+        | {liberdade de expressão}
+    [E NÃO ( {doença} | {genética} )]

@@ -1,0 +1,48 @@
+        ({frequência escolar} E {escola|educação|educacional}) 
+        | {matrícula escolar} 
+        | {educação inclusiva} 
+        | {desigualdade educacional} 
+        | {qualidade educacional} 
+        | {matrícula escolar} 
+        | {matrícula educacional} 
+        | {alfabetização de adultos} 
+        | {taxa de numeramento} 
+        | {ambiente educacional} 
+        | {acesso educacional} 
+        | ( {ajuda ao desenvolvimento} E {treinamento de professores} ) 
+        | {educação infantil} 
+        | {educação básica} 
+        | {acessível educação} 
+        | {auxílio financeiro educacional} 
+        | {segurança escolar} 
+        | {segurança na escola} 
+        | ( {oportunidades de aprendizado} E {disparidades de gênero|empoderamento} ) 
+        | ( {oportunidade de aprendizado} E {disparidades de gênero|empoderamento}  ) 
+        | {empoderamento da juventude} 
+        | {empoderamento das mulheres} 
+        | {oportunidades iguais} 
+        | {trabalho infantil} 
+        | {discriminatório} 
+        | {desigualdade educacional} 
+        | {lacuna educacional} 
+        | ( {armadilha da pobreza} E {escolaridade} ) 
+        | {necessidades de educação especial} 
+        | {sistema educacional inclusivo} 
+        | ( {escolarização} E {disparidades de gênero|disparidades étnicas|disparidades raciais}  ) 
+        | {exclusão educacional} 
+        | {abandono escolar} 
+        | {cidadania global} 
+        | {educação para o desenvolvimento sustentável} 
+        | {educação ambiental} 
+        | {política educacional} 
+        | {políticas educacionais} 
+        | {educação internacional} 
+        | {reforma da educação} 
+        | ( {reforma educacional} E {países em desenvolvimento} ) 
+        | {governança educacional} 
+        | ( {países em desenvolvimento} E {efeitos escolares} ) 
+        | {despesas com educação} 
+        | {ajuda externa} 
+        | ( {treinamento de professores} E {países em desenvolvimento} ) 
+        {desgaste de professores}
+        | [ E NÃO {alfabetização em saúde}]

@@ -1,0 +1,35 @@
+     {direitos de posse da terra} 
+    | ( {pequeno produtor} E {fazenda|silvicultura|pastoril|agricultura|pesca|produtor de alimentos|produtores de alimentos}) 
+    | {desnutrição} 
+    |  {desnutrido} | {desnutrida} 
+    | {subnutrição} 
+    |  {subnutrido} | {subnutrida} 
+    | {produção agrícola} 
+    | {produtividade agrícola} 
+    | {práticas agrícolas} 
+    |  {manejo} | {gestão agrícola} 
+    | {produção alimentar} | {produção de alimentos} 
+    | {produtividade alimentar} | {produtividade de alimentos} 
+    | {segurança alimentar} 
+    | {insegurança alimentar} 
+    | {direito à terra} 
+    | {direitos à terra} 
+    | {reforma agrária} 
+    | {reformas agrárias} 
+    | {práticas agrícolas resilientes} 
+    | ( {agricultura} E {potássio} ) 
+    | {fertilizante} 
+    | {melhoria da nutrição alimentar} 
+    | {fome oculta} 
+    | {alimentos geneticamente modificados} 
+    | ( {transgênicos} E {alimentos} ) 
+    | {práticas agroflorestais} 
+    | {manejo} | {gestão agroflorestal}
+    | {inovação agrícola} 
+    | ( {segurança alimentar} E {diversidade genética} ) 
+    | ( {mercado de alimentos} E {restrição|tarifa|acesso|divisão norte-sul|governança do desenvolvimento}  ) 
+    | {governança alimentar} 
+    | {cadeia de abastecimento alimentar} 
+    | {cadeia de valor alimentar} 
+    | {mercado de commodities alimentares}
+    | [ E NÃO {doença}]

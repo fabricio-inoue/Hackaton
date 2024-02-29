@@ -1,0 +1,59 @@
+    {poluição ambiental} | 
+    {resíduos perigosos} | 
+    {produto químico perigoso} | 
+    {produtos químicos perigosos} | 
+    {produto químico tóxico} | 
+    {produtos químicos tóxicos} | 
+    {poluição química} | 
+    {destruição do ozônio} | 
+    {poluição por pesticidas} | 
+    {estresse de pesticidas} | 
+    {redução de pesticidas} | 
+    {avaliação do ciclo de vida} | 
+    {análise do ciclo de vida} | 
+    {análises do ciclo de vida} | 
+    {economia de baixo carbono} | 
+    {pegada ambiental} | 
+    {pegada material} | 
+    {eficiência da colheita} | 
+    {resíduos sólidos} | 
+    {geração de resíduos} | 
+    {responsabilidade social corporativa} | 
+    {sustentabilidade corporativa} | 
+    {comportamento do consumidor} | 
+    {comportamentos do consumidor} | 
+    {reciclagem de resíduos} | 
+    {reciclagem de recursos} | 
+    {reutilização}
+    {reuso de recursos}
+    {economia de base biológica} | 
+    {resíduo zero} | 
+    {rótulo de sustentabilidade} | 
+    {extração de recurso global} | 
+    {contabilidade do fluxo de materiais} | 
+    {metabolismo social} | 
+    {derramamento de alimentos} | 
+    {derramamento de recursos} | 
+    {eficiência de recursos} | 
+    {consumo sustentável de alimentos} | 
+    {consumo verde} | 
+    {cadeia de suprimentos sustentável} | 
+    {economia circular} | 
+    {do berço ao berço} | 
+    {compras} | 
+    {aquisições sustentáveis}
+    {turismo sustentável} | 
+    {subsídios a combustíveis fósseis} | 
+    {gastos com combustíveis fósseis} | 
+    {rótulo de sustentabilidade} | 
+    {rotulagem de sustentabilidade} 
+    ({consumo} E {uso de recursos|derramamento})
+    ({produção} E {uso de recursos|derramamento})
+    [E NÃO 
+        {rede de sensores sem fio} | 
+        {redes de sensores sem fio} | 
+        {rede sem fio} | 
+        {redes sem fio} | 
+        {sem fio} | 
+        {doença} | 
+        {astrofísica}]
